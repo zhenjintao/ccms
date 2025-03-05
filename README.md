@@ -3,7 +3,6 @@
 
 ![](https://img.shields.io/badge/license-MIT-blue)
 </div>
-
 <hr/>
 配置化自动生成中后台（CMS）页面。CCMS是一套完善、通用的可配置化的方案，提供丰富的CMS后台管理系统的JSON配置项，通过JSON自动生成后台管理系统页面，实现零代码生成后台管理前端页面。
 
